@@ -23,6 +23,10 @@ InstaSell connects sellers to buyers. You can sell your commercial or personal p
 ![](https://media.giphy.com/media/5b43v5H7Jdg3x566uo/giphy.gif)
 ![](https://media.giphy.com/media/1YctT1f6ihgde1WD8w/giphy.gif)
 <br>
+<img src="Screenshots/Screenshot_2018-08-15-19-51-05.png" height="362" alt="Screenshot"/>
+<img src="Screenshots/Screenshot_2018-08-15-19-46-54.png" height="362" alt="Screenshot"/>
+<img src="Screenshots/Screenshot_2018-08-15-19-47-26.png" height="362" alt="Screenshot"/>
+<br>
 <br>
 
 ## Libraries Used:
@@ -35,7 +39,7 @@ InstaSell connects sellers to buyers. You can sell your commercial or personal p
 <br>
 <br>
 
-## ToDo:
+## To Do:
 * Creat Search Settings for accurate results like adding country & price section.
 * Create Categories to classify each Ad to its corresponding category.
 * Add a built-in chat system for users to contact each other with notifications.
