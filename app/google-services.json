@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "156444694602",
+    "firebase_url": "https://instasell-4fc5c.firebaseio.com",
+    "project_id": "instasell-4fc5c",
+    "storage_bucket": "instasell-4fc5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156444694602:android:98d060ebe5c42c2d",
+        "android_client_info": {
+          "package_name": "com.example.shade.instasell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156444694602-6daegp881780ke3pq2mlljh4c2chg2ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shade.instasell",
+            "certificate_hash": "4c0bc5a3bd6486ef77a24b8c4bcf12ac9bcdeee3"
+          }
+        },
+        {
+          "client_id": "156444694602-hjoabm4mcdi5uk5lkqbn8m3klhjdvv8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwaAIkEtcPbc3AkVA_tGbjSykaeSWyMQY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156444694602-hjoabm4mcdi5uk5lkqbn8m3klhjdvv8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

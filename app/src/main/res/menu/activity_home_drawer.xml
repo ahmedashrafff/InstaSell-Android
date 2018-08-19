@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/myadsHome"
+            android:icon="@drawable/myads"
+            android:title="My Ads"
+            android:checkableBehavior="single"/>
+
+    </group>
+
+    <group android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/watchlistHome"
+            android:icon="@drawable/watchlist"
+            android:title="Watch List"
+            android:checkableBehavior="single"/>
+
+    </group>
+
+    <group android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/settingsHome"
+            android:icon="@drawable/settings"
+            android:title="Settings"
+            android:checkableBehavior="single"/>
+
+    </group>
+
+    <group android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/logoutHome"
+            android:icon="@drawable/logout"
+            android:title="Log Out"
+            android:checkableBehavior="single"/>
+    </group>
+
+
+</menu>
