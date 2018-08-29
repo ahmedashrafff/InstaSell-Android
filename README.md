@@ -9,7 +9,8 @@ InstaSell connects sellers to buyers. You can sell your commercial or personal p
 * Add any Ad to your Favorite list to easily find it later.
 * You can easily edit & delete any of your published Ads.
 * Customize your account by uploading a profile picture.
-* You can change your Password & Username any time.
+* You can change your Password, Username & profile picture any time.
+* Email verification to prevent fake accounts.
 * To keep up with new products Ads, Home Screen contains the latest published Ads.
 <br>
 <br>
