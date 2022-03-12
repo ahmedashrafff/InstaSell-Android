@@ -21,8 +21,7 @@ InstaSell connects sellers to buyers. You can sell your commercial or personal p
 <br>
 <br>
 ![](https://media.giphy.com/media/uieXgWNGugS7yD082c/giphy.gif)
-![](https://media.giphy.com/media/5b43v5H7Jdg3x566uo/giphy.gif)
-![](https://media.giphy.com/media/1YctT1f6ihgde1WD8w/giphy.gif)
+
 <br>
 <img src="Screenshots/Screenshot_2018-08-15-19-51-05.png" height="362" alt="Screenshot"/>
 <img src="Screenshots/Screenshot_2018-08-15-19-46-54.png" height="362" alt="Screenshot"/>
